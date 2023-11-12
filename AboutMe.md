@@ -1,4 +1,4 @@
-This is my portfolio website
+This is my portfolio, my projects
 everything about me....
 
 <------ Hire Me ---------->
